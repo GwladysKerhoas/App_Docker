@@ -18,7 +18,7 @@ import plotly.graph_objects as go
 
 
 # Titre et sous-titre
-st.title("Atelier Docker M2 SISE 2022")
+st.title("Atelier Docker M2 SISE 2022 TEST")
 st.subheader("Exploration des données des résultats des étudiants de deux écoles portuguaise")
 
 file = st.file_uploader("Chargement du fichier")
